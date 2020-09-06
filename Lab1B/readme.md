@@ -11,8 +11,9 @@ Software - Data that acts as a set of instructions allowing a computer (or somet
 
 Data - Stored information.
 
-People - 
-Process - 
+People - The people who use and work on the system.
+
+Process - The way the system works and what went into designing it.
 
 # Github
 
