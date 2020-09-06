@@ -24,3 +24,14 @@ GitHub is cloud computing because all of the data is on their servers and the us
 
 # Conclusion
 In this section you might discuss future considerations (what you might want to learn more about), issues that you encountered (remember you may decide to post your repo link on LinkedIn or provide to a future employer so be sure to keep your discussion professional) and/or your impressions of the lab components.
+
+### Chapter Questions:
+1. Hardware, software, data, people, process.
+2. Examples of hardware are the stick of RAM I just put in my laptop, a hardrive, a graphics card.
+3. An operating system.
+4. The software that the users use, as opposed to server side software.
+5. People design, build and use them. People are the driving force behind technology as a whole. 
+6.
+7.
+8.
+9.
