@@ -23,7 +23,8 @@ Client server architecture means that most of the actual software is hosted on a
 GitHub is cloud computing because all of the data is on their servers and the users interact with it by going on the website, it's "cloud" computing because it works over the internet. Another example is repl.it
 
 # Conclusion
-In this section you might discuss future considerations (what you might want to learn more about), issues that you encountered (remember you may decide to post your repo link on LinkedIn or provide to a future employer so be sure to keep your discussion professional) and/or your impressions of the lab components.
+In this section you might discuss future considerations (what you might want to learn more about), issues that you encountered (remember you may decide to post your repo link on LinkedIn or provide to a future employer so be sure to keep your discussion professional) and/or your impressions of the lab components. 
+One thing I'd like to learn more about is web development since it's such an important part of IT today. It seems that more and more software works over the internet now instead of just stand alone programs.
 
 ### Chapter Questions:
 1. Hardware, software, data, people, process.
