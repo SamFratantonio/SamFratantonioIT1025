@@ -33,7 +33,5 @@ In this section you might discuss future considerations (what you might want to 
 5. People design, build and use them. People are the driving force behind technology as a whole. 
 6. A set of instructions followed to reach a desired goal.
 7. The internet came first.
-
-8. 1991.
-
+8. 1 9 9 1
 9. His argument was that it should be viewed as more than just a commodity, it should be treated like electricity and everyone should have access to it, also that it should be managed to reduce cost.
