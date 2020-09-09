@@ -1,5 +1,6 @@
 # Executive Summary
-Summarize this assignment and the goal of this lab
+The goal of the assignment is to learn unit conversion as well as the basics of computer hardware (CPU, RAM, etc.) 
+The unit conversions include decimal, binary and hex. 
 
 # Hardware
 ## Hard Drives and Memory
@@ -34,4 +35,4 @@ Summarize this assignment and the goal of this lab
 (Work uploaded in this folder)
 
 # Conclusion
-Reflect on what you have learnt from this week
+I've learned unit conversion and the basics of computer hardware. The hardware aspect is interesting to me because I've never looked into it extensively until now. I was able to grasp the concepts and now a lot of things I've been wondering make sense. 
