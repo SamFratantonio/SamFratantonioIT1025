@@ -14,9 +14,10 @@ Summarize this assignment and the goal of this lab
 
 ## ALU and Control Unit
 * Explain the interaction of the control unit and ALU in the CPU
-
+   * The ALU performs athematical operations. The control unit tells the ALU to do a certain operation, such as 5 - 3 and the ALU returns the answer, 2. It can also do other types of operations like compare which just sends a flag based on the result. For example, 3 and 2 which would return the greater than flag.
 ## CPU, Input and Output
 * Identify how the example addresses each of the components: CPU, Input and Output
+   * The CPU is the brain of the computer and performs all of its operations. Every other aspect of a computer goes through it. Input devices include keyboards and mouses and output devices are things like speakers and monitors.
 
 # Data Representation
 
