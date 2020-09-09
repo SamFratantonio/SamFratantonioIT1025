@@ -25,8 +25,12 @@ Summarize this assignment and the goal of this lab
 * Explain the difference between decimal, binary and hexadecimal numbers 
   * Decimal is in base 10, binary is in base 2 and hexadecimal is in base 16.
 * Convert the decimal number 211 to binary showing your work (be sure to include your name in your screenshot or scanned file)
+  * 11010011
 * Convert the binary number 101101010 to decimal (show your work)
+  * 362
 * Convert the decimal number 192 to hexadecimal (show your work)
+  * C0
+(Work uploaded in this folder)
 
 # Conclusion
 Reflect on what you have learnt from this week
