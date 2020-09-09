@@ -30,6 +30,7 @@ Summarize this assignment and the goal of this lab
   * 362
 * Convert the decimal number 192 to hexadecimal (show your work)
   * C0
+  
 (Work uploaded in this folder)
 
 # Conclusion
