@@ -10,6 +10,7 @@ Summarize this assignment and the goal of this lab
 * Why does increasing RAM make the computer run faster?
    * When software is running it loads all the relevant data into the RAM, but if there is not enough room left in the RAM it loads it directly from the hard drive which takes     longer. So more RAM allows computers to do more things at once more quickly.
 * What is the difference between 64 and 32 bit data paths?
+   * The difference is the amount of memory (RAM) each can register. A 32 bit system can access 2^32 addresses and a 64 bit system can access 2^64 addresses.
 
 ## ALU and Control Unit
 * Explain the interaction of the control unit and ALU in the CPU
