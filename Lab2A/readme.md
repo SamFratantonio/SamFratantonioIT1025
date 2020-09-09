@@ -8,6 +8,7 @@ Summarize this assignment and the goal of this lab
 * How a solid state (SSD) hard drive is different from a traditional hard drive?
    * A traditional hard drive uses a spinning disk and an SSD uses flash memory which is a series of chips that store the data.
 * Why does increasing RAM make the computer run faster?
+   * When software is running it loads all the relevant data into the RAM, but if there is not enough room left in the RAM it loads it directly from the hard drive which takes     longer. So more RAM allows computers to do more things at once more quickly.
 * What is the difference between 64 and 32 bit data paths?
 
 ## ALU and Control Unit
