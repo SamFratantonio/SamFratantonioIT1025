@@ -6,6 +6,7 @@ Summarize this assignment and the goal of this lab
 * What is the difference between latency and transfer rates in the performance of a hard drive? 
    * Latency is the average time it takes for the hard drive to find a certain piece of data that's on it by rotating the disk and the transfer rate is how long it takes to      actually save/copy data from the disk.
 * How a solid state (SSD) hard drive is different from a traditional hard drive?
+   * A traditional hard drive uses a spinning disk and an SSD uses flash memory which is a series of chips that store the data.
 * Why does increasing RAM make the computer run faster?
 * What is the difference between 64 and 32 bit data paths?
 
