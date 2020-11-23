@@ -1,5 +1,5 @@
 # Executive Summary
-Talk about what the goal of this lab is !
+The goal of this lab is to understand relational databases and how they work as well as the concepts behind them and how they're used. 
 
 # Data, Information and Knowledge 
 ## Relational Data
