@@ -49,4 +49,4 @@ and upload screenshots of the results.
    * SQL injections are when you submit specialized SQL queries to a database instead of normal information, if the database doesn't validate input correctly this can allow you to interact with is as if you're programming it which can, in theory, give you access to the whole thing. This is a threat because if a hacker can interact with a database without restrictions, they can access sensitive information.
   
 # Conclusion
-Include what you have learnt from this lab
+I learned the concepts behind relational databases and how to interact with them using SQL, as well as what an SQL injection is, which makes me slightly worried about trusting web services with my information.
