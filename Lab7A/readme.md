@@ -33,6 +33,7 @@ d) The orders table would likely have a date field.  Explain why it is important
  
 # Structured Query Language (SQL)
 * Explain RDBMS and how it relates to SQL and the purpose of SQL 
+   * RDBMS stands for relational database management system. It is a fundamental part of modern SQL because that's how it defines which databases are related to each other and in what way. 
 * Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them
 a) which is the primary key?
 b) which is the foreign key?
