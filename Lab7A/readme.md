@@ -24,7 +24,12 @@ d) The orders table would likely have a date field.  Explain why it is important
 ## Big Data
 
 * Briefly describe the four "Vs" of big data 
+   * Volume: the scale of the data, how much of it there is. 
+   * Velocity: the speed of data streaming, how fast data can be transported. 
+   * Variety: Different types of data formats, this is necessary because the technical details of data cannot always be predicted. 
+   * Veracity: the trustworthiness of the data, how accurate is it. 
 * What types of technology have driven the increased need for big data? 
+   * Web services that operate on a large scale and have a large number of users/customers. Social networks/forums especially. 
  
 # Structured Query Language (SQL)
 * Explain RDBMS and how it relates to SQL and the purpose of SQL 
