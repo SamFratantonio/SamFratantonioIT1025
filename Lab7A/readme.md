@@ -35,13 +35,18 @@ d) The orders table would likely have a date field.  Explain why it is important
 * Explain RDBMS and how it relates to SQL and the purpose of SQL 
    * RDBMS stands for relational database management system. It is a fundamental part of modern SQL because that's how it defines which databases are related to each other and in what way. 
 * Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them
+   * The suppliers and products tables. They have a one to many relationship where the suppliers table is the "one".
 a) which is the primary key?
+   * In Suppliers the primary key is SupplierID
+   * In Products the primary key is ProductID
 b) which is the foreign key?
+   * In Products the foreign key is SupplierID, as each product has a corresponding supplier.
 * Using W3Schools, try out a 
 a) select statement 
 a) where clause 
 and upload screenshots of the results.
 * Explain how SQL injections are a security threat and what can be done to reduce the issue. 
+   * SQL injections are when you submit specialized SQL queries to a database instead of normal information, if the database doesn't validate input correctly this can allow you to interact with is as if you're programming it which can, in theory, give you access to the whole thing. This is a threat because if a hacker can interact with a database without restrictions, they can access sensitive information.
   
 # Conclusion
 Include what you have learnt from this lab
