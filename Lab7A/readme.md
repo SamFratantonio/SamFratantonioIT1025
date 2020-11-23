@@ -13,12 +13,15 @@ a) What would be the primary key in the customers and orders table?
     * The primary key of the customer table would be CustomerID. The primary key of the order table would be OrderID.
     
 b) How would the customers and orders table be related? 
+
     * It would be a one-to-many relationship with the customer table being the "one". 
     
 c) What would be the foreign key in the orders table? 
+
     * The foreign keys in the orders table are CustomerID and EmployerID.
     
 d) The orders table would likely have a date field.  Explain why it is important to properly define the data type of a field. 
+
     * This is important if you intend to use it to do any type of calculations, it is also important for formatting. 
  
 ## Big Data
